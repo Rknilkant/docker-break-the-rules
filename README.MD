@@ -42,7 +42,7 @@ This repo is a multi-level challenge to containerize the things you're *not supp
 
 ## 📂 Subprojects
 
-### [`gedit-x11`](./gedit-x11)
+### [`gedit-x11`](./docker-gedit)
 Run graphical Gedit from a container using X11 socket sharing.
 
 ### [`spotify-ncspot`](./spotify-ncspot)
