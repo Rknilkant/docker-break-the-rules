@@ -1,3 +1,5 @@
+<pre><code>```bash
+
 docker-break-the-rules/
 ├── gedit-x11/              # Level 1: GUI App (Gedit)
 │   ├── Dockerfile
@@ -16,6 +18,8 @@ docker-break-the-rules/
 │   └── README.md
 │
 └── README.md               # Master README (explains all levels)
+
+```</code></pre>
 
 |--------------------------------------------------||-------------------------------------------------- |
 
